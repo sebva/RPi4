@@ -4,7 +4,7 @@
 	branch = master
 [submodule "edk2-platforms"]
 	path = edk2-platforms
-	url = https://github.com/tianocore/edk2-platforms.git
+	url = https://github.com/sebva/edk2-platforms.git
 	branch = master
 [submodule "edk2-non-osi"]
 	path = edk2-non-osi
